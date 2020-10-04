@@ -22,7 +22,7 @@
 <a href="https://github.com/garvitchittora">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garvitchittora&show_icons=true&layout=compact" alt="garvitchittora" />
 </a>    
-<br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
  # :infinity: Stats	:
 <a href="https://github.com/garvitchittora">
