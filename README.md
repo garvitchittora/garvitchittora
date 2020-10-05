@@ -45,6 +45,7 @@
 <a href="https://www.instagram.com/garvit_chittora_07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Garvit Chittora" height="30" width="30" /></a>
 
   </span>
+  
 # :telescope:	know more at   
   :point_right: <span>
   <a href="https://www.linkedin.com/in/garvit-chittora/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Garvit Chittora" height="30" width="30" /></a>
