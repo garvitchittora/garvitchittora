@@ -40,16 +40,18 @@
  
  # :coffee: Wanna Chat?
  :point_right: <span >
-  <a href="https://www.linkedin.com/in/garvit-chittora/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+  
 <a href="https://www.facebook.com/garvit.chittora.90" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Garvit Chittora" height="30" width="30" /></a>
 <a href="https://www.instagram.com/garvit_chittora_07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Garvit Chittora" height="30" width="30" /></a>
-<a href="https://twitter.com/ChittoraGarvit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+
   </span>
 # :telescope:	know more at   
   :point_right: <span>
-  <a href="https://www.codechef.com/users/garvitchittora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+  <a href="https://www.linkedin.com/in/garvit-chittora/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+  <a href="https://twitter.com/ChittoraGarvit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+<!--   <a href="https://www.codechef.com/users/garvitchittora" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Garvit Chittora" height="30" width="30" /></a>
 <a href="https://medium.com/@garvitchittora2016" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Garvit Chittora" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/iit2019142" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="Garvit Chittora" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/RuntimeTerror2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="Garvit Chittora" height="30" width="30" /></a>
-<a href="https://www.hackerearth.com/@boom15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Garvit Chittora" height="30" width="30" /></a>
+<a href="https://www.hackerearth.com/@boom15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Garvit Chittora" height="30" width="30" /></a> -->
 </span>
